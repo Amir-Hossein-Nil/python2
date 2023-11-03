@@ -1,0 +1,34 @@
+
+{
+    "first name": "nil",
+    "last name": "amir",
+    "age": 30,
+    "math grade": 20,
+    "physic grade": 20,
+    "chemistry grade": 2
+}
+{
+    "first name": "zey",
+    "last name": "vah",
+    "age": 12345,
+    "math grade": 9,
+    "physic grade": 5,
+    "chemistry grade": 7
+}
+
+{
+    "first name": "zz",
+    "last name": "vv",
+    "age": 99,
+    "math grade": 7,
+    "physic grade": 9,
+    "chemistry grade": 0
+}
+{
+    "first name": "ali",
+    "last name": "ali",
+    "age": 30,
+    "math grade": 19.99,
+    "physic grade": 20.0,
+    "chemistry grade": 20.0
+}
